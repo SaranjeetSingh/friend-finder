@@ -1,0 +1,29 @@
+
+#hello{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+#box{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: blue;
+}
+.text{
+    height: 30px;
+    width: 99%;
+    font-size: 25px;
+}
+.option{
+    height: 30px;
+    width: 18%;
+    font-size: 18px;
+    border-radius: 25px;
+}
+P{
+    font-size: 20px;
+}
+h1{
+    font-size: 40px;
+}
