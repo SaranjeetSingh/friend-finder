@@ -17,7 +17,7 @@ var friends = [
       },
       {
         "name":"Dwayne Johnson",
-        "photo":"https://amp.businessinsider.com/images/5ba1327964dce839008b5e4d-750-457.jpg",
+        "photo":"https://cdn-img.instyle.com/sites/default/files/styles/684xflex/public/images/2017/11/instyle-january-the-rock-1.jpg?itok=85UO4P5F",
         "scores":[
             3,
             1,
